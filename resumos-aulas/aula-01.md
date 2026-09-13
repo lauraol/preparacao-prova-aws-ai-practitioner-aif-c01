@@ -52,7 +52,7 @@ Definição AWS:
 
 ### Benefícios mais cobrados
 
-1. Troca CAPEX por OPEX
+1. Troca CAPEX (Capital Expenditure, você comprava servidores e infraestrutura própria) por OPEX (Operational Expenditure, usa serviços na nuvem e paga apenas pelo que consome).
 2. Economia de escala
 3. Não precisar estimar capacidade futura
 4. Maior velocidade e agilidade
